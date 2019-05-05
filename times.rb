@@ -1,5 +1,6 @@
 def using_times
-	#your code here
+	#your code 
+	7.times
 end
 
 
